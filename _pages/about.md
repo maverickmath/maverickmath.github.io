@@ -9,9 +9,7 @@ redirect_from:
 ---
 Olá! Sou Gladstone, **Engenheiro de Decisões**. 
 
-Passo a maior parte do tempo pensando em como indivíduos e organizações tomam decisões, pequenas e grandes; em como elas *deveriam* tomar decisões; sobre o que as afastam desse ideal; e sobre o que perdem com isso.
-
-Meu objetivo de longo prazo é
+Passo a maior parte do tempo pensando em como indivíduos e organizações tomam decisões, pequenas e grandes; em como elas *deveriam* tomar decisões; sobre o que as afastam desse ideal; e sobre o que perdemos com essa divergência. Tenho grande interesse pelos diferentes modos com que as pessoas pensam e refletem, absorvem, armazenam e recuperam informação, constroem, representam e comunicam conhecimento. A racionalidade, os processos cognitivos formais, seus vieses naturais, as formas de reduzir seus impactos sobre nossas vidas individuais e sobre o funcionamento de nossas instituições.
 
 Engenharia de decisões
 ======
