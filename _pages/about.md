@@ -1,14 +1,26 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Olá! Sou Gladstone, **Engenheiro de Decisões**. Como essa não é uma descrição comum, convém explicar o que quero dizer com isso.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Nós tomamos decisões de acordo com o que entendemos das cadeias de relações causais que levam das nossas ações às suas consequências. Assim, podemos aumentar a qualidade de nossas decisões quando deixamos de lado a intuição e colocamos o processo decisório em si como objetivo de *design*. 
+
+Mesmo grandes organizações podem tomar decisões ruins. Prever as consequências das decisões tomadas é uma tarefa não-trivial e não se resume a calcular o "impacto esperado sobre o lucro líquido no próximo trimestre". Com frequência, existem *múltiplos objetivos* a serem atendidos simultaneamente com uma decisão, muitos deles “intangíveis” (ou seja, difíceis mas não impossíveis de mensurar).
+
+Encontrar um equilíbrio entre a complexidade do problema de decisão e a sofisticação das práticas decisórias a ela aplicadas é fundamental para gerar decisões de qualidade. É tarefa do “Engenheiro de Decisões” analisar cada situação de decisão e recomendar o conjunto de ferramentas adequadas ao seu tratamento. É seu objetivo incorporar técnicas avançadas de **Data Science, Pesquisa Operacional e Inteligência Computacional** ao conjunto de ferramentas de trabalho das pessoas responsáveis por tomar decisões em organizações grandes e pequenas, públicas e privadas.
+
+Pela aplicação de princípios de engenharia é possível moldar o processo decisório de modo a incorporar todos os dados, conhecimento especialista e perspectivas relevantes ao contexto de uma decisão. Desse modo, pela aplicação de uma abordagem de Engenharia de Decisões é possível:
+
+- melhorar a qualidade das decisões tomadas em sua organização;
+- tomar decisões mais rápidas, consonantes com a rapidez do processo de desenvolvimento em si (*agile decision making*);
+- reduzir os riscos associados às decisões tomadas;
+- reutilizar ou modificar decisões anteriores à luz de novas informações e conhecimento (*decision template*).
 
 A data-driven personal website
 ======
